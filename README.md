@@ -1,3 +1,3 @@
 # Vue Learning
 
-###### Reaction Timer (game)
+###### Reaction Timer (game) - NetNinja tutorial for beginners
