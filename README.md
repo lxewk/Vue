@@ -1,6 +1,8 @@
 # Vue Learning
 
-###### Reaction Timer (game) - NetNinja tutorial for beginners
+### NetNinja tutorial for beginners #1 thru #10
+
+###### Reaction Timer (game) 
 
 ###### Modal-project
 
